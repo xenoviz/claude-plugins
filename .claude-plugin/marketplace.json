@@ -1,0 +1,12 @@
+{
+  "name": "xenoviz",
+  "description": "Claude Code plugins from Xenoviz.",
+  "owner": { "name": "Xenoviz", "url": "https://github.com/xenoviz" },
+  "plugins": [
+    {
+      "name": "tasklane",
+      "source": { "source": "github", "repo": "thetriplet3/tasklane" },
+      "description": "A task board pane for long sessions: each request becomes a task card with its cost, plus usage by agent, standing rules and connected sessions."
+    }
+  ]
+}
