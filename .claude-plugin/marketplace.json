@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "tasklane",
-      "source": { "source": "github", "repo": "thetriplet3/tasklane" },
+      "source": { "source": "github", "repo": "xenoviz/tasklane" },
       "description": "A task board pane for long sessions: each request becomes a task card with its cost, plus usage by agent, standing rules and connected sessions."
     }
   ]
